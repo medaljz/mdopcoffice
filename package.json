@@ -1,0 +1,14 @@
+{
+  "name": "opc-office",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/launch.mjs",
+    "deploy": "node scripts/deploy.mjs",
+    "build": "bash scripts/build-macos.sh"
+  },
+  "devDependencies": {
+    "playwright": "^1.55.0"
+  }
+}
