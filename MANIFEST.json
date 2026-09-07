@@ -3,13 +3,13 @@
   "files": {
     ".gitignore": "3ca144349f2488f3226feab3e670df37c88185db4540afc22093f1d6bbbce985",
     "AGENTS.md": "0f6baf8c8a2b1d7daef0a4836f1107a9562234834ecc7d728743414f2f89bbb5",
-    "README.md": "81db4d2d65a4e91402c1221bf0b63edab19dfbd3b13334f0bfee5d6445694602",
+    "README.md": "59ae7008df5f6cd0280f0832fcf87abb5d90794d250424706a00fff26995bae3",
     "docs/AGENT-INSTALL.md": "c4cf8bf2097c6eb56803d578ce2b40c80f3c840dca4d009b3632a70a031d3336",
     "docs/ASSETS.md": "1955d46d9d25db2cccb749a669700235aa5b36a73e07f839c19e0d61faf8dc14",
     "docs/INSTALL.md": "676435b804bd4d9180335105576e014b9c2a5a6eb56580485ca959dc5cc699e8",
     "docs/RELEASE-STATUS.md": "08f339644c5c616b9bbff59fb92a847669713742ed26cbb19866b55e50f5bcf8",
     "docs/office-preview.png": "cd878174ac2ca68d16972a3b9f9dbaa8b1f82d6519c50d29998c9b533ad5152e",
-    "docs/share-guide.md": "bd9d6d932dfd8ccdb10de0f1d86e6b74ef482af6c83abc7d216cf100978195f9",
+    "docs/share-guide.md": "f887b0e010feb5e0689f870b64a52f3e4cee55b4e7fbc9f5aec03afbdd0f994e",
     "lib/agent-start.mjs": "f375979a00474cb1b6a140186e2d494144a3f1546ae8a98fae339674ce9613ee",
     "lib/animation-review.mjs": "9374416acf899a4e372c0d9da59f2e1a0ff69438bc4dc846e9b37d81efdf8a99",
     "lib/character-project.mjs": "ad6f0a13a84fa9504b6ccfd0d8354310b565d50495b020e9df388601fdec4592",
@@ -109,13 +109,14 @@
     "scripts/deploy.mjs": "7a186c2ab91a06abf278ef01ac7031002ea9fca1923afe17a8a8322e644dde98",
     "scripts/follow-host.mjs": "a13f3229b9e2d58a2df62e3c18a6e039998c591006781e1a31dcf8269ade5bf2",
     "scripts/launch.mjs": "ba5b678b7af7922f61ebb76bf6a854e9fa974788c4cf16dabf151550dc792bc3",
-    "scripts/package-share.mjs": "7b9032ab544ec07caa9c83eb790e160fb7694cb957f1e6d434a28279c0cdc1c7",
+    "scripts/package-share.mjs": "7c2566af473b82caa0ff36d56651e43d632db838823298a1c7425c46a8b5bc14",
     "scripts/split-sprite-sheet.py": "a4bb887f4bf0ed12a19d90ce39389bbce8514a216314082aaf69188921da783a",
     "scripts/validate-character.py": "71f9961256a867204649dca6441e61373dda9dd4ce36be94f7091ea797c17b21",
     "scripts/watch-agents.mjs": "4ec116f857f448638b74a58586e70add52263585299cdb52a84be109e6a0f7d1",
     "server.mjs": "a1d93546e286e015cf4f0be780b34ceee2e051210aac3f5d8bcd9d0eb5a82b5f",
     "skills/songwriting/SKILL.md": "9ced4ec390d7e1d05ea0c1d250f1bc5e964ff5a9ee8742a4379a54ea220dcd10",
     "启动OPC-Windows.cmd": "33e53e8e849c21cc16732da0f4450d7ab586964d28bd6e55f3d2b35466c22903",
-    "启动OPC.command": "c2a5976027ef0fbbdf861ad40fe06ac438902d7ebfe5f1b0eaa9c026687c18f7"
+    "启动OPC.command": "c2a5976027ef0fbbdf861ad40fe06ac438902d7ebfe5f1b0eaa9c026687c18f7",
+    "docs/readme-demo.png": "5f8c8cb91690a5c6d5253ba529224166e007ec93c96d5944f3dcccd7ffe1972d"
   }
 }
